@@ -2,6 +2,7 @@
  Project: Hotel Booking Demand Analysis and Prediction
 
  Descripción / Description
+ 
 (Español)
 Este proyecto realiza la ingesta, limpieza y almacenamiento de datos sobre la demanda de reservas hoteleras. El dataset original proviene de la investigación de Nuno Antonio et al. (2019), cuya documentación técnica se encuentra en el archivo `README.pdf` adjunto.
 
